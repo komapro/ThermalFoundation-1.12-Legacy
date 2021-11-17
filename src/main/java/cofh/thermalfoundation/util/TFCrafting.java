@@ -195,13 +195,6 @@ public class TFCrafting {
 		PotionHelper.addMix(CorePotions.luck, Items.REDSTONE, CorePotions.luckLong);
 		PotionHelper.addMix(CorePotions.unluck, Items.REDSTONE, CorePotions.unluckLong);
 		PotionHelper.addMix(CorePotions.wither, Items.REDSTONE, CorePotions.witherLong);
-
-		PotionHelper.addMix(CorePotions.haste, Items.GLOWSTONE_DUST, CorePotions.hasteStrong);
-		PotionHelper.addMix(CorePotions.resistance, Items.GLOWSTONE_DUST, CorePotions.resistanceStrong);
-		PotionHelper.addMix(CorePotions.absorption, Items.GLOWSTONE_DUST, CorePotions.absorptionStrong);
-		PotionHelper.addMix(CorePotions.luck, Items.GLOWSTONE_DUST, CorePotions.luckStrong);
-		PotionHelper.addMix(CorePotions.unluck, Items.GLOWSTONE_DUST, CorePotions.unluckStrong);
-		PotionHelper.addMix(CorePotions.wither, Items.GLOWSTONE_DUST, CorePotions.witherStrong);
 	}
 
 }

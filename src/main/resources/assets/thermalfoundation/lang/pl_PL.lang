@@ -13,7 +13,6 @@ death.attack.pyrotheum=%1$s pomyliło się Pyrotheum z Wodą!
 fluid.coal=Upłynniony węgiel
 fluid.cryotheum=Żelowe cryotheum
 fluid.ender=Rezonujący ender
-fluid.glowstone=Zenergizowany glowstone
 fluid.mana=Pierwotna mana
 fluid.pyrotheum=Buchające pyrotheum
 fluid.redstone=Zdestabilizowany redstone
@@ -102,7 +101,6 @@ tab.thermalfoundation.lexicon.transmute.0=Przekonwertuj równowartościowe przed
 
 tile.thermalfoundation.fluid.cryotheum.name=Żelowe cryotheum
 tile.thermalfoundation.fluid.ender.name=Rezonujący ender
-tile.thermalfoundation.fluid.glowstone.name=Zenergizowany glowstone
 tile.thermalfoundation.fluid.mana.name=Pierwotna mana
 tile.thermalfoundation.fluid.pyrotheum.name=Buchające pyrotheum
 tile.thermalfoundation.fluid.redstone.name=Zdestabiizowany redstone

@@ -13,7 +13,6 @@ death.attack.pyrotheum=%1$s verwarde gloeiend hete pyrotheum met water!
 fluid.coal=Vloeibare koolstof
 fluid.cryotheum=IJskoude cryotheum
 fluid.ender=Resonante ender
-fluid.glowstone=Bekrachtigd gloeisteen
 fluid.mana=Onbewerkte mana
 fluid.pyrotheum=Vlammende pyrotheum
 fluid.redstone=Gedestabiliseerde redstone
@@ -102,7 +101,6 @@ tab.thermalfoundation.lexicon.transmute.0=Converteer gelijkwaardige items volgen
 
 tile.thermalfoundation.fluid.cryotheum.name=IJskoude cryotheum
 tile.thermalfoundation.fluid.ender.name=Resonante ender
-tile.thermalfoundation.fluid.glowstone.name=Bekrachtigd gloeisteen
 tile.thermalfoundation.fluid.mana.name=Onbewerkte mana
 tile.thermalfoundation.fluid.pyrotheum.name=Vlammende pyrotheum
 tile.thermalfoundation.fluid.redstone.name=Gedestabiliseerde redstone

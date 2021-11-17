@@ -13,7 +13,6 @@ death.attack.pyrotheum=%1$s ha scambiato piroteo per acqua!
 fluid.coal=Carbone liquifatto
 fluid.cryotheum=Crioteo gelido
 fluid.ender=Omega risonante
-fluid.glowstone=Luminite energizata
 fluid.mana=Mana primaria
 fluid.petrotheum=Tectonic Petrotheum
 fluid.pyrotheum=Piroteo fiammeggiante
@@ -111,7 +110,6 @@ tab.thermalfoundation.lexicon.transmute.1=Placa il Vocabolario per lasciare la p
 
 tile.thermalfoundation.fluid.cryotheum.name=Crioteo gelido
 tile.thermalfoundation.fluid.ender.name=Omega risonante
-tile.thermalfoundation.fluid.glowstone.name=Luminite energizata
 tile.thermalfoundation.fluid.mana.name=Mana primaria
 tile.thermalfoundation.fluid.pyrotheum.name=Piroteo fiammeggiante
 tile.thermalfoundation.fluid.redstone.name=Pietrarossa destabilizata
