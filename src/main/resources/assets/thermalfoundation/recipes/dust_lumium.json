@@ -21,10 +21,6 @@
 		{
 			"type": "forge:ore_dict",
 			"ore": "dustSilver"
-		},
-		{
-			"type": "thermalfoundation:fluid",
-			"fluid": "glowstone"
 		}
 	]
 }

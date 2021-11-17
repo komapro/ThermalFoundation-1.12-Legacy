@@ -155,7 +155,6 @@ public class BlockFluidCryotheum extends BlockFluidInteractive {
 		addInteraction(Blocks.LEAVES2, Blocks.AIR);
 		addInteraction(Blocks.TALLGRASS, Blocks.AIR);
 		addInteraction(Blocks.FIRE, Blocks.AIR);
-		addInteraction(TFFluids.blockFluidGlowstone.getDefaultState(), Blocks.GLOWSTONE);
 	}
 
 	/* IInitializer */

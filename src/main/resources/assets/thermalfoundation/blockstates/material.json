@@ -624,11 +624,6 @@
 					"layer0": "thermalfoundation:items/material/crystal_redstone"
 				}
 			},
-			"crystalglowstone": {
-				"textures": {
-					"layer0": "thermalfoundation:items/material/crystal_glowstone"
-				}
-			},
 			"crystalender": {
 				"textures": {
 					"layer0": "thermalfoundation:items/material/crystal_ender"

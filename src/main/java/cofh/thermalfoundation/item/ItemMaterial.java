@@ -187,7 +187,6 @@ public class ItemMaterial extends ItemMulti implements IInitializer {
 
 		crystalCrudeOil = addOreDictItem(892, "crystalCrudeOil");
 		crystalRedstone = addOreDictItem(893, "crystalRedstone", EnumRarity.UNCOMMON);
-		crystalGlowstone = addOreDictItem(894, "crystalGlowstone", EnumRarity.UNCOMMON);
 		crystalEnder = addOreDictItem(895, "crystalEnder", EnumRarity.RARE);
 
 		/* Additional Items */
@@ -222,7 +221,6 @@ public class ItemMaterial extends ItemMulti implements IInitializer {
 
 		OreDictionary.registerOre("clathrateOil", crystalCrudeOil);
 		OreDictionary.registerOre("clathrateRedstone", crystalRedstone);
-		OreDictionary.registerOre("clathrateGlowstone", crystalGlowstone);
 		OreDictionary.registerOre("clathrateEnder", crystalEnder);
 
 		/* Vanilla References */
@@ -271,7 +269,6 @@ public class ItemMaterial extends ItemMulti implements IInitializer {
 			addSmelting(dustEnderium, ingotEnderium);
 
 			addSmelting(crystalRedstone, new ItemStack(Items.REDSTONE), 0.5F);
-			addSmelting(crystalGlowstone, new ItemStack(Items.GLOWSTONE_DUST), 0.5F);
 			addSmelting(crystalEnder, new ItemStack(Items.ENDER_PEARL), 0.5F);
 		}
 
@@ -547,7 +544,6 @@ public class ItemMaterial extends ItemMulti implements IInitializer {
 
 	public static ItemStack crystalCrudeOil;
 	public static ItemStack crystalRedstone;
-	public static ItemStack crystalGlowstone;
 	public static ItemStack crystalEnder;
 
 	public static ItemStack dustPyrotheum;

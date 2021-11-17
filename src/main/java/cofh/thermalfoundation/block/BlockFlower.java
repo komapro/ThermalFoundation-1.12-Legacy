@@ -225,7 +225,6 @@ public class BlockFlower extends BlockCore implements IInitializer, IModelRegist
 		// @formatter:off
 		COAL(0, "coal"),
 		REDSTONE(1, "redstone"),
-		GLOWSTONE(2, "glowstone"),
 		ENDER(3, "ender"),
 		BLAZE(4, "blaze"),
 		BLIZZ(5, "blizz"),
@@ -282,7 +281,6 @@ public class BlockFlower extends BlockCore implements IInitializer, IModelRegist
 	/* REFERENCES */
 	public static ItemStack flowerCoal;
 	public static ItemStack flowerRedstone;
-	public static ItemStack flowerGlowstone;
 	public static ItemStack flowerEnder;
 	public static ItemStack flowerBlaze;
 	public static ItemStack flowerBlizz;

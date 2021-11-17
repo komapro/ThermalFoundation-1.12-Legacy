@@ -11,13 +11,6 @@
 				}
 			}
 		],
-		"glowstone": [
-			{
-				"custom": {
-					"fluid": "glowstone"
-				}
-			}
-		],
 		"ender": [
 			{
 				"custom": {

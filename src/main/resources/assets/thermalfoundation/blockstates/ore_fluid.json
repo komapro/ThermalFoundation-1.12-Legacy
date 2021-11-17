@@ -26,11 +26,6 @@
 					"all": "thermalfoundation:blocks/ore/ore_fluid_redstone"
 				}
 			},
-			"glowstone": {
-				"textures": {
-					"all": "thermalfoundation:blocks/ore/ore_fluid_glowstone"
-				}
-			},
 			"ender": {
 				"textures": {
 					"all": "thermalfoundation:blocks/ore/ore_fluid_ender"

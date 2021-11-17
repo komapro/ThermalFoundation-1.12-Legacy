@@ -61,7 +61,6 @@ public class PluginTConstruct extends PluginTFBase {
 		alloyList.add(new FluidStack(FluidRegistry.getFluid("lumium"), 144));
 		alloyList.add(new FluidStack(FluidRegistry.getFluid("tin"), 108));
 		alloyList.add(new FluidStack(FluidRegistry.getFluid("silver"), 36));
-		alloyList.add(new FluidStack(FluidRegistry.getFluid("glowstone"), 250));
 		addAlloy(alloyList);
 		alloyList.clear();
 

@@ -38,7 +38,6 @@ public class TFTextures {
 		registerFluidTextures(TFFluids.fluidPotion);
 
 		registerFluidTextures(TFFluids.fluidRedstone);
-		registerFluidTextures(TFFluids.fluidGlowstone);
 		registerFluidTextures(TFFluids.fluidEnder);
 		registerFluidTextures(TFFluids.fluidPyrotheum);
 		registerFluidTextures(TFFluids.fluidCryotheum);
